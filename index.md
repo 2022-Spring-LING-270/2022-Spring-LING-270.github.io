@@ -13,11 +13,10 @@ This course deals with the interrelated nature of language, technology, and soci
 * Online asynchronous
 
 #### Instructor
-* [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - One-on-one discussions over available by appointment.
+* [Instructor's Name Goes Here](http://www.linguistics.illinois.edu/people/johndoe1) - One-on-one discussions over available by appointment.
 
 #### Teaching Assistants
-* [Brennan Dell](https://linguistics.illinois.edu/directory/profile/dell3)
-* [Hayley Park](https://linguistics.illinois.edu/directory/profile/hpark129)
+* [TA's Name Goes Here](https://linguistics.illinois.edu/directory/profile/johndoe2)
 
 #### Office Hours
 * Office hours will be held [via Zoom](https://illinois.zoom.us); times will be announced near the end of the first week of class
