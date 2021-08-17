@@ -2,7 +2,7 @@
 layout: default
 title: Syllabus
 ---
-100
+101
 
 ## Course Overview
 
