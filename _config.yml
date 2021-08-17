@@ -1,10 +1,7 @@
-site: Ultra
-url: https://example.com
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
-twitter:
-  username: yourusername
-  card: summary
+site: LING 270
+url: https://2021-fall-uiuc-ling270.github.io/
+title: LING 270
+description: Language, Technology, and Society
 
 permalink: pretty
 
@@ -26,16 +23,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  projects:
-    output: true
-    permalink: /projects/:slug
   
 defaults:
   -
@@ -43,26 +30,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
