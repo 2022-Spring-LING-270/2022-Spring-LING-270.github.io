@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ultra</title>
+ <link href="https://example.com/atom.xml" rel="self"/>
+ <link href="https://example.com/"/>
+ <updated>2021-08-17T10:13:36-05:00</updated>
+ <id>https://example.com</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Module 3</title>
+   <link href="https://example.com/module03.html"/>
+   <updated>2020-09-01T00:00:00-05:00</updated>
+   <id>https://example.com/module-3</id>
+   <content type="html">&lt;p&gt;Foo bar&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Module 01</title>
+   <link href="https://example.com/module01.html"/>
+   <updated>2020-08-26T00:00:00-05:00</updated>
+   <id>https://example.com/module01</id>
+   <content type="html">&lt;p&gt;Foo bar baz&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Module 00</title>
+   <link href="https://example.com/module00.html"/>
+   <updated>2020-08-24T00:00:00-05:00</updated>
+   <id>https://example.com/module00</id>
+   <content type="html">&lt;h3 id=&quot;required-reading&quot;&gt;Required reading&lt;/h3&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
