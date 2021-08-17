@@ -2,7 +2,7 @@
 layout: default
 title: Syllabus
 ---
-
+0
 
 ## Course Overview
 
