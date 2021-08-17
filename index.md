@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 ---
 
-## 1100
+## 1101
 
 ## Course Overview
 
