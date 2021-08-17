@@ -3,8 +3,5 @@ layout: default
 title: Index
 ---
 
-  <article class="post index" role="article">
-  <h1 class="post-title">{{ site.description }}</h1>
-  </article>
 
-110
+111
