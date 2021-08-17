@@ -4,7 +4,19 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <style type="text/css">
+    {% capture include_to_scssify %}
+      {% include inline.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+</head>
+
   <body>
 
       <main id="main" role="main">
