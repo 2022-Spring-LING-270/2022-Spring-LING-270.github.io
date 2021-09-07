@@ -135,6 +135,7 @@
   reading:
     -
      title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
      length:
        value: "180"
        unit: "minutes"
