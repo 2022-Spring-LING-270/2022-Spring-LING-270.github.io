@@ -116,7 +116,7 @@
      title: "Video playlist"
      url: "https://www.youtube.com/watch?v=WRduVA1v_-Q&list=PLydysiDoFy5UEbZjnqtxRzOpKzWkCsYWM"
      length:
-       value: "180"
+       value: "167"
        unit: "minutes"
     -
      author: Sproat
@@ -137,7 +137,7 @@
      title: "Video playlist"
      url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
      length:
-       value: "180"
+       value: "85"
        unit: "minutes"
     -
      author: Sproat
