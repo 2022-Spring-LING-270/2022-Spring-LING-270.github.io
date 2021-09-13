@@ -113,13 +113,13 @@
   title: "How Writing Represents Language"
   reading:
     -
-     title: "Video playlist 01"
+     title: "Video playlist (part 01)"
      url: "https://www.youtube.com/watch?v=WRduVA1v_-Q&list=PLydysiDoFy5UEbZjnqtxRzOpKzWkCsYWM"
      length:
        value: "167"
        unit: "minutes"
     -
-     title: "Video playlist 02"
+     title: "Video playlist (part 02)"
      url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
      length:
        value: "85"
@@ -140,10 +140,16 @@
   date: "2021-09-17 23:59 CDT"
   reading:
     -
-     title: "Video playlist"
+     title: "Video playlist (part 03)"
      url: "https://www.youtube.com/watch?v=Vu9gplvyWWM&list=PLydysiDoFy5Xd8guBbA5Pa5W0IxY-ixAx"
      length:
        value: "68"
+       unit: "minutes"
+    -
+     title: "An Animated History of Writing"
+     url: "https://www.youtube.com/playlist?list=PLc4s09N3L2h3HtaAYVqOVKGt2h6wRasw2"
+     length:
+       value: "97"
        unit: "minutes"
     -
      author: Sproat
