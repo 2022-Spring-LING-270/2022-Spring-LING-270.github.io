@@ -113,8 +113,14 @@
   title: "How Writing Represents Language"
   reading:
     -
-     title: "Video playlist"
+     title: "Video playlist 01"
      url: "https://www.youtube.com/watch?v=WRduVA1v_-Q&list=PLydysiDoFy5UEbZjnqtxRzOpKzWkCsYWM"
+     length:
+       value: "167"
+       unit: "minutes"
+    -
+     title: "Video playlist 02"
+     url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
      length:
        value: "167"
        unit: "minutes"
@@ -135,7 +141,7 @@
   reading:
     -
      title: "Video playlist"
-     url: "https://www.youtube.com/watch?v=sqkf_cgQUI0&list=PLydysiDoFy5VipwO12eoGC1Nwd9PTTsGL"
+     url: "https://www.youtube.com/watch?v=Vu9gplvyWWM&list=PLydysiDoFy5Xd8guBbA5Pa5W0IxY-ixAx"
      length:
        value: "85"
        unit: "minutes"
