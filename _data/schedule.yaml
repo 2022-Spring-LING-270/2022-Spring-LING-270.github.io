@@ -203,9 +203,10 @@
   title: "The Invention of Printing"
   reading:
     -
-     title: "Video playlist"
+     title: "Video: Gutenberg Printing Press Documentary"
+     url: "https://www.youtube.com/watch?v=uQ88yC35NjI"
      length:
-       value: "180"
+       value: "60"
        unit: "minutes"
     -
      author: Wikipedia
