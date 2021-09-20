@@ -255,7 +255,13 @@
     -
      title: "Quiz 5"
 -
-  date: "2021-10-11 23:59 CDT"
+  week: "8"
+  date: "2021-10-15 23:59 CDT"
+  reading:
+    -
+     title: "Homework 3"
+-
+  date: "2021-10-18 23:59 CDT"
   module: "1-5"
   week: "9"
   reading:
@@ -289,12 +295,6 @@
      title: "Reading log"
     -
      title: "Quiz 6"
--
-  week: "10"
-  date: "2021-10-29 23:59 CDT"
-  reading:
-    -
-     title: "Homework 3"
 -
   module: "7"
   week: "10-11"
