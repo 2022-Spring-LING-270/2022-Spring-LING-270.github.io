@@ -198,9 +198,14 @@
     -
      title: "Quiz 3"
 -
+  date: "2021-10-01 23:59 CDT"
+  reading:
+    -
+     title: "Homework 2"
+-
   module: "4"
   week: "6-7"
-  date: "2021-10-15 23:59 CDT"
+  date: "2021-10-08 23:59 CDT"
   title: "The Invention of Printing"
   reading:
     -
@@ -228,14 +233,9 @@
     -
      title: "Quiz 4"
 -
-  date: "2021-10-15 23:59 CDT"
-  reading:
-    -
-     title: "Homework 2"
--
   module: "5"
   week: "7-8"
-  date: "2021-10-29 23:59 CDT"
+  date: "2021-10-15 23:59 CDT"
   title: "Writing, Literacy, & Society"
   reading:
     -
@@ -255,7 +255,7 @@
     -
      title: "Quiz 5"
 -
-  date: "2021-10-18 23:59 CDT"
+  date: "2021-10-11 23:59 CDT"
   module: "1-5"
   week: "9"
   reading:
