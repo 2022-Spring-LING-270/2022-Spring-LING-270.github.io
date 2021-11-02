@@ -314,8 +314,9 @@
   reading:
     -
      title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=-ZZTkASKkYE&list=PLrFhPxATm4Hz22YckBBRphXqtkiHSItm3"
      length:
-       value: "210"
+       value: "98"
        unit: "minutes"
     -
      author: Sproat
