@@ -357,11 +357,6 @@
   date: "2021-11-19 23:59 CST"
   reading:
     -
-     title: "Video playlist"
-     length:
-       value: "180"
-       unit: "minutes"
-    -
      author: Sproat
      title: "Chapter 8"
      pages: "216-241"
@@ -386,11 +381,6 @@
   date: "2021-12-03 23:59 CST"
   title: "Language and the Internet"
   reading:
-    -
-     title: "Video playlist"
-     length:
-       value: "180"
-       unit: "minutes"
     -
      author: Sproat
      title: "Chapter 9"
