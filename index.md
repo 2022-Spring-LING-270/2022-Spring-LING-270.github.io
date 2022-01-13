@@ -8,15 +8,11 @@ title: Syllabus
 This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will utilize the internet as a means by which we can re-evaluate our language and its impact on society on a global scale.
 
 #### Time and place
-* Tue/Thurs. 12:30PM - 1:50PM
-* Foreign Languages Building Room G27
+* Tue/Thurs. 2:00PM - 3:20PM
+* Gregory Hall 219
 
 #### Instructor
-* [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - One-on-one discussions available by appointment.
-
-#### Grader
-* [Daniel Stelzer](https://linguistics.illinois.edu/directory/profile/stelzer3)
-
+* [Daniel Stelzer](mailto:stelzer3@illinois.edu) - One-on-one discussions available by appointment.
 
 ## Course Objectives
 
@@ -50,7 +46,6 @@ Interested students are encouraged to enrich the content from the required readi
 * **HAL's Legacy: 2001's Computer as Dream and Reality** by David Stork. 1996. MIT Press.
 * **Language and the Internet** by David Crystal. 2001 Cambridge University Press.
 
-
 ## Course Organization
 
 This course is organized into 9 content modules. 
@@ -62,7 +57,7 @@ Each module will include:
 * A **module overview** which will provide an overview of the module's topic and contents
 * A list of **module learning objectives** which will summarize expected learning goals
 * A list of **required readings** for the module
-* A playlist of **required videos** for the module
+* A playlist of **optional videos** for the module
 * A description of **module homework** assignment(s), if any, along with due dates
 
 #### Module topics
@@ -77,7 +72,6 @@ Each module will include:
 8. Computational Linguistics and Natural Language Processing
 9. Language and the Internet
 
-
 ## Course Policies
 
 #### Academic Integrity
@@ -90,21 +84,17 @@ Do not hesitate to ask the instructor(s) if you are ever in doubt about what con
 
 #### Communications
 
-Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questions may be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
-
-One-on-one meetings with students will take place either [over Zoom](https://illinois.zoom.us) or in-person at the instructor's office in 2039 FLB.
-
+Announcements and updates will mainly be posted on [Piazza](https://piazza.com/illinois/spring2022/ling270). Students are encouraged to use this platform to ask questions outside of class, either for their classmates or for the instructor.
 
 #### Grading
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
+Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of practical exercises, homework assignments, projects, quizzes and exams.
 
 * **Quizzes**: 25%
 * **Homework**: 30%
 * **Reading log**: 5%
 * **Mid-term Exam**: 15%
-* **Final Exam or Project**: 25%
-
+* **Final Project**: 25%
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
@@ -133,7 +123,6 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 Assignment submissions will be penalized by 10 percentage points each day past the deadline for four days past the deadline. Assignments submitted five or more days past the deadline will not be given credit. If there is an unforeseeable emergency which prevents you from submitting an assignment on time, please contact the instructor as soon as you can.
 
 For some or all homework assignments, a solution may be presented to the class after the original homework deadline. Under no circumstances will work be accepted after a solution has been presented to the class. 
-
 
 #### Readings and videos
 
