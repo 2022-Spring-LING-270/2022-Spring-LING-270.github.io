@@ -109,7 +109,7 @@
 -
   module: "2"
   week: "3"
-  date: "2021-02-04 23:59 CDT"
+  date: "2022-02-04 23:59 CDT"
   title: "How Writing Represents Language"
   reading:
     -
@@ -131,8 +131,6 @@
      length: 
        value: 21
        unit: "pages"
-    -
-     title: "Reading log"
     -
      title: "Quiz 2a"
 -
@@ -171,7 +169,7 @@
 -
   module: "3"
   week: "5-6"
-  date: "2021-02-25 23:59 CDT"
+  date: "2022-02-25 23:59 CDT"
   title: "Decipherment"
   reading:
     -
@@ -198,7 +196,7 @@
     -
      title: "Quiz 3"
 -
-  date: "2021-02-25 23:59 CDT"
+  date: "2022-02-25 23:59 CDT"
   reading:
     -
      title: "Homework 2"
@@ -206,7 +204,7 @@
 -
   module: "4"
   week: "6-7"
-  date: "2021-03-04 23:59 CDT"
+  date: "2022-03-04 23:59 CDT"
   title: "The Invention of Printing"
   reading:
     -
@@ -236,7 +234,7 @@
 -
   module: "5"
   week: "7-8"
-  date: "2021-03-11 23:59 CDT"
+  date: "2022-03-11 23:59 CDT"
   title: "Writing, Literacy, & Society"
   reading:
     -
@@ -260,7 +258,7 @@
   week: "9"
   title: "<i>Spring Break</i>"
 -
-  date: "2021-03-24 23:59 CDT"
+  date: "2022-03-22 23:59 CDT"
   module: "1-5"
   week: "10"
   reading:
@@ -268,7 +266,7 @@
      title: "Mid-term Exam"
 -
   week: "10"
-  date: "2021-03-25 23:59 CDT"
+  date: "2022-03-25 23:59 CDT"
   reading:
     -
      title: "Course Project Part 1"
@@ -276,7 +274,7 @@
 -
   module: "6"
   week: "10-11"
-  date: "2021-04-01 23:59 CDT"
+  date: "2022-04-01 23:59 CDT"
   title: "Artificial Intelligence"
   reading:   
     -
@@ -304,7 +302,7 @@
      title: "Quiz 6"
      
 -
-  date: "2021-04-01 23:59 CDT"
+  date: "2022-04-01 23:59 CDT"
   reading:
     -
      title: "Homework 3"
@@ -312,7 +310,7 @@
 -
   module: "7"
   week: "11-12"
-  date: "2021-04-08 23:59 CST"
+  date: "2022-04-08 23:59 CST"
   title: "Precursors to Language Computing"
   reading:
     -
@@ -335,7 +333,7 @@
 -
   module: "8"
   week: "13"
-  date: "2021-04-15 23:59 CST"
+  date: "2022-04-15 23:59 CST"
   title: "Modern Language Technology"
   reading:
     -
@@ -352,12 +350,10 @@
        value: 28
        unit: "pages"
     -
-     title: "Reading log"
-    -
      title: "Quiz 8a"
 -
   week: "14"
-  date: "2021-04-22 23:59 CST"
+  date: "2022-04-22 23:59 CST"
   reading:
     -
      author: Sproat
@@ -371,7 +367,7 @@
     -
      title: "Reading log"
 -
-  date: "2021-04-22 23:59 CST"
+  date: "2022-04-22 23:59 CST"
   reading:
     -
      title: "Course Project Part 2"
@@ -379,7 +375,7 @@
 -
   module: "9"
   week: "15"
-  date: "2021-04-29 23:59 CST"
+  date: "2022-04-29 23:59 CST"
   title: "Language and the Internet"
   reading:
     -
@@ -390,13 +386,11 @@
        value: 14
        unit: "pages"
     -
-     title: "Reading log"
-    -
      title: "Quiz 9a"
 -
   module: "9"
   week: "16"
-  date: "2021-05-06 23:59 CST"
+  date: "2022-05-06 23:59 CST"
   reading:
     -
      author: Sproat
@@ -405,10 +399,8 @@
      length: 
        value: 3
        unit: "pages"
-    -
-     title: "Reading log"
 -
-  date: "2021-05-06 23:59 CST"
+  date: "2022-05-06 23:59 CST"
   reading:
     -
      title: "Homework 4"
