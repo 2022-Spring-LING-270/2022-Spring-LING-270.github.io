@@ -349,8 +349,6 @@
      length: 
        value: 28
        unit: "pages"
-    -
-     title: "Quiz 8a"
 -
   week: "14"
   date: "2022-04-22 23:59 CST"
@@ -363,7 +361,7 @@
        value: 26
        unit: "pages"
     -
-     title: "Quiz 8b"
+     title: "Quiz 8"
     -
      title: "Reading log"
 -
@@ -385,8 +383,6 @@
      length: 
        value: 14
        unit: "pages"
-    -
-     title: "Quiz 9a"
 -
   module: "9"
   week: "16"
@@ -405,3 +401,9 @@
     -
      title: "Homework 4"
      url: "https://learn.illinois.edu/mod/assign/view.php?id=6771484"
+-
+  date: "2022-05-06 23:59 CST"
+  reading:
+    -
+     title: "Course Project Part 3"
+     url: "https://learn.illinois.edu/mod/assign/view.php?id=6771493"
