@@ -5,28 +5,25 @@ title: Syllabus
 
 ## Course Overview
 
-This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will utilize the internet as a means by which we can re-evaluate our language and its impact on society on a global scale.
+This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will investigate the internet's relationship to language and its impact on society on a global scale.
 
 #### Time and place
-* Tue/Thurs. 2:00PM - 3:20PM
+* Tuesday and Thursday 2:00PM - 3:20PM
 * Gregory Hall 219
 
 #### Instructor
-* [Daniel Stelzer](mailto:stelzer3@illinois.edu) - One-on-one discussions available by appointment.
+* [Daniel Stelzer](mailto:stelzer3@illinois.edu)
 
 ## Course Objectives
 
-The main goal of this course is to excite an interest for and passion in language technologies in the attentive student. 
-
-While many of us know a variety of things about some aspects of language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation. 
+The main goal of this course is to discuss the relationship between technology and language, from the origins of the first writing systems to the printing press and modern artificial intelligence.
 
 By the end of this course, you will be able to:
-* Discuss logically the origins of written systems of disparate types and analyze the efficacy of automated transcription, transliteration, and translation between them.
+* Discuss the origins of different types of writing systems and analyze the process of transcription, transliteration, and translation between them.
 * Posit theoretical advancements to current language technologies that augment the social fabric of a given culture, creed, etc.
 * Recognize the difficulty of creating a new technology to combat a challenge and overcome it in some significant way.
-	 
-**Please note: _this course is not a technical class_**. You will not be taught how to develop a natural language processing (NLP) system, or an AI system. However, we will be discussing the current state of research NLP and AI in broad strokes (among many other language technologies). If you are interested in these areas, the aim of this course is to give you a high-level survey of these fields and discuss the social significance of language technologies.
 
+**Please note: _this course is not a technical class_**. No programming skills are required, and you will not be taught how to develop natural language processing systems here. However, we will be discussing the current state of research NLP and AI in broad strokes (among many other language technologies). If you are interested in these areas, the aim of this course is to give you a high-level survey of these fields and discuss the social significance of language technologies.
 
 ## Course Materials
 
@@ -34,7 +31,7 @@ By the end of this course, you will be able to:
 
 * [Language, Technology, and Society](https://www.amazon.com/Language-Technology-Society-Richard-Sproat-dp-0199549389/dp/0199549389)
 by Richard Sproat<br>
-You can <a href="https://www.amazon.com/Language-Technology-Society-Richard-Sproat-ebook-dp-B006NTKARU/dp/B006NTKARU">rent or purchase the Kindle eBook version of this text</a> from Amazon or purchase a paper copy <a href="https://bookstore.illinois.edu/buy_textbooks.asp?">from the University of Illinois bookstore</a> or <a href="https://www.amazon.com/Language-Technology-Society-Richard-Sproat-dp-0199549389/dp/0199549389">from Amazon</a>.
+You can <a href="https://www.amazon.com/Language-Technology-Society-Richard-Sproat-ebook-dp-B006NTKARU/dp/B006NTKARU">rent or purchase the Kindle eBook version of this text</a> from Amazon or purchase a paper copy <a href="https://bookstore.illinois.edu/buy_textbooks.asp?">from the University of Illinois bookstore</a>, <a href="https://bookshop.org/books/language-technology-and-society/9780199549382">Bookshop</a>, or <a href="https://www.amazon.com/Language-Technology-Society-Richard-Sproat-dp-0199549389/dp/0199549389">Amazon</a>.
 
 #### Optional supplementary readings
 
@@ -55,10 +52,14 @@ This course is organized into 9 content modules.
 Each module will include:
 
 * A **module overview** which will provide an overview of the module's topic and contents
-* A list of **module learning objectives** which will summarize expected learning goals
+* A list of **module learning objectives**
 * A list of **required readings** for the module
 * A playlist of **optional videos** for the module
-* A description of **module homework** assignment(s), if any, along with due dates
+* A description of **module assignments**, including reading logs, quizzes, and homework
+
+In previous semesters, when everything was online, this course has been run as a "flipped classroom": students would learn the material through readings and lecture videos outside of class, then use the in-person meetings for discussion and collaboration. This semester, we expect to be able to gather face-to-face, and surveys of previous students suggest that in-person lectures were more helpful than the videos.
+
+So for this semester, in-person sections will be run as a mixture of lecture and discussion. But the videos from previous semesters will still be available, alongside the readings and in-person lectures. These are **not** mandatory or required viewing; they're just provided in case students find them useful.
 
 #### Module topics
 
@@ -84,15 +85,19 @@ Do not hesitate to ask the instructor(s) if you are ever in doubt about what con
 
 #### Communications
 
-Announcements and updates will mainly be posted on [Piazza](https://piazza.com/illinois/spring2022/ling270). Students are encouraged to use this platform to ask questions outside of class, either for their classmates or for the instructor.
+Announcements and updates will mainly be posted on [Piazza](https://piazza.com/illinois/spring2022/ling270). Students are encouraged to use this platform to ask questions and discuss the material outside of class; it's a good way to post questions either privately to the instructors, or publicly to your classmates, and you can choose to ask and answer anonymously.
+
+Quizzes, reading logs, and exams will be graded on PrairieLearn. Homework and project submissions will be submitted through Moodle.
+
+Synchronous office hours are available on Zoom, Monday and Wednesday 12:00pm - 12:50pm, or by appointment. The link is on Moodle for security reasons.
 
 #### Grading
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of practical exercises, homework assignments, projects, quizzes and exams.
+Students will be assessed through a combination of practical exercises, homework assignments, projects, quizzes and exams.
 
 * **Quizzes**: 25%
 * **Homework**: 30%
-* **Reading log**: 5%
+* **Reading Logs**: 5%
 * **Mid-term Exam**: 15%
 * **Final Project**: 25%
 
@@ -126,11 +131,11 @@ For some or all homework assignments, a solution may be presented to the class a
 
 #### Readings and videos
 
-Students are expected to regularly review the schedule of assigned readings and video lectures. The schedule is subject to change.
+Students are expected to regularly review the schedule of assigned readings. The schedule is subject to change.
 
-Students are expected to and required to complete all assigned readings and video lectures prior to the class for which they are assigned.
+Students are expected to and required to complete all assigned readings prior to the class for which they are assigned.
 
-Students are expected to read and participate in Q&As and class discussions on the [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF)
+Students are expected to read and participate in Q&As and class discussions on [Piazza](https://piazza.com/illinois/spring2022/ling270).
 
 #### Learning Goals & Outcomes
 
@@ -143,12 +148,9 @@ Students who do so are expected to attain the learning goals and outcomes.
 To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail [disability@illinois.edu](mailto:disability@illinois.edu) or go to the [DRES website](https://www.disability.illinois.edu).
 
 If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps:
-* Post a private message addressed to both the instructor and the TA on [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF)
-* Use the subject heading **DRES letter**
-* Use the **dres** topic tag
+* Post a private message to the instructor on [Piazza](https://piazza.com/illinois/spring2022/ling270) (or via email)
 * In the body of the post, the student should attach a PDF of their DRES letter
 * In the body of the post, the student should list which specific accommodations mentioned in the DRES letter are being requested for this class
-
 
 #### Religious Observances
 
