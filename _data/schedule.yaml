@@ -5,12 +5,6 @@
   title: "Syllabus"
   reading:
     -
-     title: "Video playlist"
-     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5XD5s3KogCZyX81etFT8Wp2"
-     length:
-       value: "47"
-       unit: "minutes"
-    -
      title: "Syllabus"
      url: ..
      length:
